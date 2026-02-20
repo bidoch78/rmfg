@@ -1,6 +1,3 @@
 [submodule "lib/DS3231_Simple"]
 	path = lib/DS3231_Simple
 	url = https://github.com/sleemanj/DS3231_Simple.git
-[submodule "lib/TFT_eSPI"]
-	path = lib/TFT_eSPI
-	url = https://github.com/Bodmer/TFT_eSPI.git
